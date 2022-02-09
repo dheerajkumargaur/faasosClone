@@ -19,3 +19,19 @@ masai construct week Unit 3
 * procees to pay after entering the dropout details
 * pay by debit card
 * checkout
+
+
+## Challenges:
+- Time co-ordination
+- Getting the product data
+- Understanding code of different individuals
+- Merging different people's codes
+- Logical error
+- Opportunites
+- Exposure to different ways of writing code
+- Learning new concepts
+- Exposure to collaboration
+- Code re-usability
+- Workflow
+
+it was an interesting experience for all of us working on the project.
